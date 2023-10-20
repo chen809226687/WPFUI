@@ -1,0 +1,17 @@
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\bin\Debug\WPF_LoginUI.exe.config
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\bin\Debug\WPF_LoginUI.exe
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\bin\Debug\WPF_LoginUI.pdb
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.csproj.AssemblyReference.cache
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\MainWindow.g.cs
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\App.g.cs
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI_MarkupCompile.cache
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI_MarkupCompile.lref
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\MainWindow.baml
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.g.resources
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.Properties.Resources.resources
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.csproj.GenerateResource.cache
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.csproj.CoreCompileInputs.cache
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.exe
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.pdb
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\MAIN.g.cs
+D:\C#_procedure\1020\WPF_LoginUI\WPF_LoginUI\obj\Debug\MAIN.baml
